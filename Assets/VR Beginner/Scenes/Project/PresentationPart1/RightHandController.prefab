@@ -23,17 +23,22 @@ PrefabInstance:
     - target: {fileID: 2530105244822525959, guid: af01d4b1f5a3dfa4e8147b8d921d6618,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2530105244822525959, guid: af01d4b1f5a3dfa4e8147b8d921d6618,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5966534018684848539, guid: af01d4b1f5a3dfa4e8147b8d921d6618,
         type: 3}
       propertyPath: m_Name
       value: Wristwatch Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5966534018684848539, guid: af01d4b1f5a3dfa4e8147b8d921d6618,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7248045294328773512, guid: af01d4b1f5a3dfa4e8147b8d921d6618,
         type: 3}
