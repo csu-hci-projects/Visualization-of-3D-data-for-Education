@@ -1,1 +1,0 @@
-# Visualization-of-3D-data-for-Education
