@@ -36,5 +36,5 @@ Proving that taking abstract items like money and scale of wealth and turning it
 ## LINKS
 [Project GitHub](https://github.com/csu-hci-projects/Visualization-of-3D-data-for-Education)\
 [Checkpoint01.mp4](https://drive.google.com/file/d/17zsgbmZUYox_kL2-4srWOPxgRpxV53nr/view?usp=sharing)\
-[Checkpoint02.mp4](https://TODO_add_link): TODO. Upload video to google share folder and update link
+[Checkpoint02.mp4](https://drive.google.com/file/d/1Gu53qqn4STPEQfjO6AYCf5tFGG4i0npr/view?usp=sharing)
 
