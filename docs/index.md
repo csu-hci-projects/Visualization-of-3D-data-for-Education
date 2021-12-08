@@ -17,11 +17,11 @@ TODO+
 ## METHODOLOGY
 To test our hypothesis, we have created a controlled experiment that will be conducted on a pool of participants. Two experiences will be prepared that present the same information in two different formats. The first will be a traditional presentation with audio and video; second will be in virtual reality using Oculus Quest. The participants will be split evenly between watching the video and using the Oculus Quest to learn the financial information we seek to communicate. At this point, they will take a mid-experiment quiz to test the acquisition of knowledge. Then participants will get a chance to use the medium they did not experience first. After this, participants will take an impression survey to find out personal preferences and changing opinions. The order of the surveys is essential for analytical integrity. It is important to alternate the subjects’ paths for more accurate comparative data, so there is no preference for a first experience. Additionally, having the knowledge acquisition test in the middle allows for correct data reflection of which interaction gives more acquisition. The initial test will establish a baseline for knowledge to measure the resulting change and avoid exceptionally knowledgeable outliers\
 <p align="center">
-   <img src="CS567_Fall_2021_PowerPoint.png" width="45%"><br>
+   <img src="CS567_Fall_2021_PowerPoint.png" width="65%"><br>
    figure 1
 </p>
 <p align="center">
-   <img src="CS567_Fall_2021_3D_layout.png" width="45%"><br>
+   <img src="CS567_Fall_2021_3D_layout.png" width="65%"><br>
    figure 2
 </p>
 
