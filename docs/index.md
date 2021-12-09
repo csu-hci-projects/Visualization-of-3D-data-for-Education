@@ -51,6 +51,7 @@ development and adoption.
 [Project GitHub](https://github.com/csu-hci-projects/Visualization-of-3D-data-for-Education)\
 [Checkpoint01.mp4](https://drive.google.com/file/d/17zsgbmZUYox_kL2-4srWOPxgRpxV53nr/view?usp=sharing)\
 [Checkpoint02.mp4](https://drive.google.com/file/d/1Gu53qqn4STPEQfjO6AYCf5tFGG4i0npr/view?usp=sharing)\
-[ShortVideo.mp4](https://TODO)\
-[PresentationVideo.mp4](https://TODO)
+[ShortVideo.mp4](https://drive.google.com/file/d/12YLvl1B9aDQsUDidDawtO4zKrdrTd0uU/view?usp=sharing)\
+[PresentationVideo.mp4](https://drive.google.com/file/d/155Q7muUayQoHcpU-pyV7aXZOGoQUtbrF/view?usp=sharing)\
+[CLassVideo.mp4](https://drive.google.com/file/d/1zZ_utrN7XivpHFs7MOWzC8DVUMQf1u45/view?usp=sharing)
 
